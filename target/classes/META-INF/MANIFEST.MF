@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Conference
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: melathadgu
+Implementation-Vendor-Id: com.melat
+Build-Jdk: 1.8.0_151
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/confrerence
+Created-By: Maven Integration for Eclipse
+
